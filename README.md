@@ -1,2 +1,0 @@
-# PlatziSquare
-PlatziSquare
